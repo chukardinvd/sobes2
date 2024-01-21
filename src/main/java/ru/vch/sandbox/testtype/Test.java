@@ -11,7 +11,7 @@ public class Test {
         demoType = new DemoType();
 
         int p1 = 0;
-        Long p2 = 0L;
+        Long p2 = 1024L;
         String p3 = "0";
         LocalDate p4 = LocalDate.now();
 
