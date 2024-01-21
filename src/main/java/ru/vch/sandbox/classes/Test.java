@@ -14,6 +14,7 @@ public class Test {
         BaseInterface bi2 = new BaseInterface(){
         };
 
+
         ExtAbstractClass extClass = new ExtAbstractClass();
     }
 }
